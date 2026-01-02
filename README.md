@@ -1,10 +1,6 @@
 <h1 align="center">Hi, Welcome To My Profile 👋, I'm Mohit</h1>
 <h3 align="center"> Learner 🚀</h3>
 
-
-
- 
-
 ---
 
 ## 🛠️ Tech Stack  
@@ -53,17 +49,6 @@
 
 ---
 
-
-
-
-
-
-
-
-
-
----
-
 ## 📫 Connect With Me  
 
 <p>
@@ -82,7 +67,5 @@
 ---
 
 
-
----
 
 
