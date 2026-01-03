@@ -52,8 +52,6 @@
 ## 📫 Connect With Me  
 
 <p>
-  <a href="https://github.com/Mohit32kr">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/mohit-kumar-b520772b9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
